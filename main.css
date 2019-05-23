@@ -116,7 +116,7 @@ body{
  margin-bottom: 2rem;
  /* left: 10%; */
  color: white;
- position: relative;*/
+ /*position: relative;*/
  text-align: center;
 }
 
@@ -273,7 +273,7 @@ body{
 }*/
 
 .cardtextfront{
-  font-size: 2.9rem;
+  font-size: 3.9rem;
   color: rgb(6, 6, 81);
   margin: 1.2rem;
   padding: 0.3rem;
@@ -281,7 +281,7 @@ body{
 
 .cardtextback{
   margin: 2rem;
-  font-size: 1.68rem;
+  font-size: 2.3rem;
   color: white;
   padding: 0.3rem;
 }
