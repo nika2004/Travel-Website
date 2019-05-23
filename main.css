@@ -687,9 +687,6 @@ body{
   z-index:1;
   transform: translate(-50%,-50%);
 }
-.content_block3{
-  width: 150%;
-}
 .block3_title{
    left: 5%;
    top: 15%;
@@ -857,7 +854,7 @@ body{
   }
 
   .cardtextback{
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   }
 
   .card-Sputnik{
@@ -959,7 +956,7 @@ body{
   transition: translate(-50%,-50%);
 }
 .content_block3{
-  height: 300vh;
+  height: 280vh;
 }
 .block3_title{
   transform: scale(0.9);
