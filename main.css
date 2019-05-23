@@ -925,14 +925,14 @@ body{
     width: 35rem;
   }
   .text{
-    width: 35rem;
-    margin-left: -5;
+    width: 32rem;
+    margin-left: -5rem;
     font-size: 2rem;
   }
   .image-earth {
   position:absolute;
   top: 18rem;
-  left: 10rem;
+  left: 7rem;
   height:23rem;
   width:25rem;
   z-index:10;
@@ -941,8 +941,8 @@ body{
 
 .image-stars {
   position:absolute;
-  top: 28rem;
-  left: 30rem;
+  top: 31rem;
+  left: 22rem;
   height:32rem;
   width:22rem;
   z-index:5;
@@ -952,7 +952,7 @@ body{
 .image-galaxy {
   position:absolute;
   top: 41rem;
-  left: 11rem;
+  left: 9rem;
   height: 27rem;
   width: 22rem;
   z-index:1;
