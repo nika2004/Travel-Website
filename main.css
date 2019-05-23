@@ -919,22 +919,22 @@ body{
   }
   .block2_title{
     font-size: 4.7rem;
-    left: 0%;
+    margin-left: -2rem;
     margin-top: -5rem;
     margin-bottom: 5rem;
     width: 40rem;
   }
   .text{
     width: 37rem;
-    margin-left: 0;
-    font-size: 2.2rem;
+    margin-left: -3;
+    font-size: 2rem;
   }
   .image-earth {
   position:absolute;
   top: 18rem;
   left: 10rem;
-  height:26rem;
-  width:28rem;
+  height:24rem;
+  width:26rem;
   z-index:10;
   transition: translate(-50%,-50%);
 }
@@ -943,8 +943,8 @@ body{
   position:absolute;
   top: 28rem;
   left: 30rem;
-  height:36rem;
-  width:26rem;
+  height:33rem;
+  width:23rem;
   z-index:5;
   transition: translate(-50%,-50%);
 }
@@ -953,8 +953,8 @@ body{
   position:absolute;
   top: 41rem;
   left: 11rem;
-  height: 30rem;
-  width: 25rem;
+  height: 28rem;
+  width: 23rem;
   z-index:1;
   transition: translate(-50%,-50%);
 }
@@ -966,9 +966,9 @@ body{
   margin-top: -12rem;
   margin-bottom: 0rem;
   margin-left: -2rem;
-  font-size: 4rem;
+  font-size: 3.9rem;
   text-align: center;
-  width: 45rem;
+  width: 35rem;
 }
 .block3_cards{
   flex-direction: column !important;
@@ -982,7 +982,7 @@ body{
     height: 42rem;
     width: 34rem;
     margin: 0rem;
-    margin-left: 3rem;
+    margin-left: 0rem;
   }
   .cardimage{
     height: 29rem;
@@ -1008,10 +1008,10 @@ body{
 }
 
 .block4_title{
- font-size: 6rem;
- left: 3%;
+ font-size: 4.5rem;
+ left: 0%;
  text-decoration: bold;
- width: 45rem;
+ width: 35rem;
 }
 
 .link{
@@ -1019,28 +1019,19 @@ body{
   top: -10%;
 }
 
-.video-container video {
-  min-width: 100%; 
-  object-fit: cover;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-
 .block4_text{
-  top: 10%;
-  left: 7%;
-  width: 40rem;
-  font-size: 1.8rem;
+  top: 12%;
+  left: 0%;
+  width: 38rem;
+  font-size: 1.7rem;
 }
 
 .block4_image{
   position: absolute;
   top: 65%;
-  left: 7%;
-  height: 25rem;
-  width: 40rem;
+  left: 0%;
+  height: 22rem;
+  width: 36rem;
 }
 }
 
