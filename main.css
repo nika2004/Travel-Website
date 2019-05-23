@@ -633,8 +633,8 @@ body{
 }
 
 @media screen and /*(min-width: 900px) and*/ (max-width: 1200px){
-  .header_primary{
-    transform: scale(0.9) translate(-50%,-50%);
+   .header_primary{
+    transform: scale(0.95) translate(-50%,-50%);
   }
   .content_block2{
     transform: scale(0.9);
@@ -774,8 +774,8 @@ body{
 } 
 
 @media screen and /*(min-width: 601px) and*/ (max-width: 900px){
-  .header_primary{
-    transform: scale(0.9) translate(-50%,-50%);
+   .header_primary{
+    transform: scale(0.95) translate(-50%,-50%);
   }
   .content_block2{
     transform: scale(0.9);
@@ -826,9 +826,6 @@ body{
   width: 25rem;
   z-index:1;
   transform: translate(-50%,-50%);
-}
-.content_block3{
-  width: 150%;
 }
 .block3_title{
    left: 5%;
@@ -913,8 +910,8 @@ body{
 }
 
 @media screen and /*(min-width: 300px) and*/ (max-width: 500px){
-  .header_primary {
-    transform: scale(0.9) translate(-50%,-50%);
+  .header_primary{
+    transform: scale(0.95) translate(-50%,-50%);
   }
   .content_block2{
     transform: scale(0.9);
@@ -928,9 +925,9 @@ body{
     width: 40rem;
   }
   .text{
-    width: 34rem;
-    left: 3%;
-    font-size: 2rem;
+    width: 37rem;
+    margin-left: 0;
+    font-size: 2.2rem;
   }
   .image-earth {
   position:absolute;
@@ -985,7 +982,7 @@ body{
     height: 42rem;
     width: 34rem;
     margin: 0rem;
-    margin-left: 5rem;
+    margin-left: 3rem;
   }
   .cardimage{
     height: 29rem;
